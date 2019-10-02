@@ -3,9 +3,11 @@ RENCANA KONTEN EA
 - js
   * ES6
   * Framework JS
-    * angular
-    * react
+    - view
+    - react
+- Fundamental strukdat
 - php framework
   * laravel
 - interview
 - vlog
+- phyton
