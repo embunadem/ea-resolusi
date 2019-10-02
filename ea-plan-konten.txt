@@ -4,6 +4,7 @@ RENCANA KONTEN EA
   * ES6
   * Framework JS
     - view
+    - react
 - Fundamental strukdat
 - php framework
   * laravel
