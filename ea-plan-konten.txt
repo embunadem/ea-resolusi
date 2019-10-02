@@ -3,7 +3,9 @@ RENCANA KONTEN EA
 - js
   * ES6
   * Framework JS
-- Fundamental strukdat
+    * angular
+    * react
 - php framework
+  * laravel
 - interview
 - vlog
