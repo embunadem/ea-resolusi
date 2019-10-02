@@ -1,0 +1,8 @@
+RENCANA KONTEN EA
+
+- js
+  * ES6
+  * Framework JS
+- php framework
+- interview
+- vlog
